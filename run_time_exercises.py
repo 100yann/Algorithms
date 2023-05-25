@@ -1,4 +1,4 @@
-# Asymptomatic Analysis - vocabulary for the design and analysis of algorithms
+# Asymptotic Analysis - vocabulary for the design and analysis of algorithms
 # -------------
 
 # Example: One Loop
