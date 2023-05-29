@@ -1,4 +1,4 @@
-# djikstra's algorithm is used to calculate the shortest path for a weighted graph
+# dijkstra's algorithm is used to calculate the shortest path for a weighted graph
 # a weighted graph has weights (numbers) assigned to each edge between each node
 # it only works when all weights are positive numbers
 
