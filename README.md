@@ -1,2 +1,2 @@
-# StanfordOnline Algorithms
-Contains practice code and solutions from StanfordOnline CSX0003 Algorithms: Design and Analysis, Part 1 course
+# Algorithms
+Contains practice code and solutions for Algorithms from Aditya Bhargava's book "Grokking Algorithms"
